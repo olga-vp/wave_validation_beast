@@ -1,0 +1,2 @@
+Scripts in this folder are separate from the validation system and can be run
+before validation to produce netcdf files that directly work with the system.
