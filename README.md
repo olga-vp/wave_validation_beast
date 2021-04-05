@@ -24,3 +24,6 @@ plot.py > Makes box plots for the individual buoys (and scatter plots and timese
 plot_all.py > Makes box plots for all the buoys together (and scatter plots)
 
 stats_all.py > Calculates overall statistics
+
+
+SCRIPTS IN TONETCDF FOLDER ARE TO BE RUN BEFORE THE VALIDATION. OR YOU HAVE TO PRODUCE THE NETCDFS OF THE RIGHT FORMAT SOME OTHER WAY.
